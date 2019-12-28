@@ -135,11 +135,11 @@ CORE III: $alignr CORE IV:${font Monospace:size=12}
 ${color}${freq}MHz / ${acpitemp}°C ${color3}(${cpu cpu3}%)            $alignr ${color}${freq}MHz / ${acpitemp}°C ${color3}(${cpu cpu4}%)
 ${cpubar 5,220 cpu3}  $alignr ${cpubar 5,220 cpu4}
 ${hr 2 }
-${color}1st  ${color4}${top name 1}${top cpu 1}%${alignr}${color}2nd  ${color4}${top name 6}${top cpu 6}%
-${color}3rd  ${color}${top name 2}${top cpu 2}%${alignr}${color}4th  ${color}${top name 7}${top cpu 7}%
-${color}5th  ${color1}${top name 3}${top cpu 3}%${alignr}${color}6th  ${color1}${top name 8}${top cpu 8}%
-${color}7th  ${color2}${top name 4}${top cpu 4}%${alignr}${color}8th  ${color2}${top name 9}${top cpu 8}%
-${color}9th  ${color3}${top name 5}${top cpu 5}%${alignr}${color}10th  ${color3}${top name 10}${top cpu 10}%
+${color}1st  ${color4}${top name 1}${top cpu 1}% ${alignr}${color}2nd  ${color4}${top name 6}${top cpu 6}%
+${color}3rd  ${color}${top name 2}${top cpu 2}% ${alignr}${color}4th  ${color}${top name 7}${top cpu 7}%
+${color}5th  ${color1}${top name 3}${top cpu 3}% ${alignr}${color}6th  ${color1}${top name 8}${top cpu 8}%
+${color}7th  ${color2}${top name 4}${top cpu 4}% ${alignr}${color}8th  ${color2}${top name 9}${top cpu 8}%
+${color}9th  ${color3}${top name 5}${top cpu 5}% ${alignr}${color}10th  ${color3}${top name 10}${top cpu 10}%
 
 ${color4}${font Monospace:style=Bold:pixelsize=18}MEMORY USAGE ${color6}${hr 2 }
 ${color}${font Monospace:size=12}
